@@ -1,2 +1,31 @@
-# ram-holder
-3D printable inlay with connectors for DIMM RAM
+# RAM Holder
+
+- Download from Printables here: [`Download Link`](https://www.printables.com/@EvokeMadness_492935)
+- Download from Thingiverse here: [`Download Link`](https://www.thingiverse.com/EvokeMadness/designs)
+
+* * *
+
+# Summary
+
+3D printable inlay for extra RAM—if you have any :⁠'⁠(
+
+- **What's Included:**
+    - RAM Holder
+    - Compatible Connector
+
+# Print Settings
+
+- Supports: None
+- Infill: 15%
+- Brim: false
+
+# A Note from the Designer
+
+This RAM holder is an improvement on the [RAM Holder/Organizer](https://www.thingiverse.com/thing:2001984) by jakkuh_t and designed to be compatible with the inlay system by ENABLE3D.
+
+* * *
+
+# Previews
+
+![](assets/preview.png)
+
